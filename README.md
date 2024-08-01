@@ -54,6 +54,4 @@
 - Pandas Documentation: [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)
 - NumPy Documentation: [https://numpy.org/doc/](https://numpy.org/doc/)
 - Matplotlib Documentation: [https://matplotlib.org/stable/contents.html](https://matplotlib.org/stable/contents.html)
-
-For any inquiries or issues, please contact [Sahil Renapurkar](mailto:sahil.22111271@viit.ac.in)
  
